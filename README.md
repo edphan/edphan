@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @edphan
-- 👀 I’m interested in software development and working on hard problems
-- 🌱 I’m currently learning HTML5, CSS3, JAVASCRIPT, REACT, REDUX
-- 📫 How to reach me: my email
+- 👀 I’m interested in working on hard problems and building efficient products.
+- 🌱 I’m great at React, Redux, JavaScript (ES6), Node JS, Express, PostgreSQL, HTML, CSS
+- 📫 Contact me: trungngocphan@gmail.com or visit my website: https://edwardphan.com
 
 <!---
 edphan/edphan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
