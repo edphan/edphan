@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @edphan
-- 📱 Swift + 🚀 React dev
+- 📱 iOS + 🚀 React dev
 
 <!---
 edphan/edphan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
